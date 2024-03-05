@@ -77,6 +77,8 @@ Each of the following case study questions can be answered using a single SQL st
 9. **If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?**
 10. **In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?**
 
+## Solutions
+- Click here for [case study Solutions](https://github.com/akshaykumarmondal/pizza_challenge/blob/main/Pizza%20Challenge.sql)
 
 ## Contact 
 - Feel free to reach on [Linkedin](https://www.linkedin.com/in/akshay-kumar-mondal-%F0%9F%87%AE%F0%9F%87%B3-b8aba720a/)
